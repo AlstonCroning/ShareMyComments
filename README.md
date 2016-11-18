@@ -7,4 +7,4 @@ This project is for sharing comments on a website which the users can see which 
 A good example of this is the Youtube's comments section of videos.
 
 # What it does?
-It takes the username and the comment and stores in the database for that specific user, and returns them as readable data (JSON) 
+It takes the username and the comment and stores in the database for that specific user, and returns them as readable data 
